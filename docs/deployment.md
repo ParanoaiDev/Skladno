@@ -12,7 +12,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/RovelLabs/2-proect.git
+git clone https://github.com/ParanoaiDev/Skladno.git
 cd 2-proect
 
 # Установка зависимостей
@@ -37,7 +37,7 @@ npm run build
 ## 3. Деплой на платформы
 
 ### Вариант A: Vercel / Netlify / Cloudflare Pages
-1. Подключите репозиторий `RovelLabs/2-proect` в дашборде.
+1. Подключите репозиторий `ParanoaiDev/Skladno` в дашборде.
 2. Build Command: `npm run build`
 3. Output Directory: `dist`
 4. Никаких переменных окружения на старте не требуется (работает полностью client-side).

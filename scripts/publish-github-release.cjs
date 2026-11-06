@@ -68,7 +68,7 @@ async function main() {
   }
   console.log('GitHub token successfully retrieved.');
 
-  const repo = 'RovelLabs/2-proect';
+  const repo = 'ParanoaiDev/Skladno';
   const tag = 'v0.1.0';
 
   const authHeaders = {

@@ -2,7 +2,7 @@
 
 В проекте реализована полноценная кроссплатформенная поддержка с удобными релизами под все ключевые операционные системы: **iPhone / iPad (iOS)**, **Android (APK)**, **macOS (DMG & App)**, **Windows (Portable)** и **Веб / PWA**.
 
-Все релизы доступны на странице **[GitHub Releases: RovelLabs/2-proect/releases](https://github.com/RovelLabs/2-proect/releases)**.
+Все релизы доступны на странице **[GitHub Releases: ParanoaiDev/Skladno/releases](https://github.com/ParanoaiDev/Skladno/releases)**.
 
 ---
 
@@ -20,7 +20,7 @@
 5. **Результат:** Иконка «Складно» появится среди ваших приложений на iPhone. При нажатии приложение запускается в полноэкранном автономном режиме (без рамок Safari), поддерживает быстрый перевод по СБП в Сбер, Т-Банк, Альфу и сохраняет данные офлайн.
 
 ### Вариант B: Профиль установки Apple (.mobileconfig) — в 1 клик
-1. Скачайте файл конфигурационного профиля: **[`Skladno-v0.1.0-ios.mobileconfig`](https://github.com/RovelLabs/2-proect/releases/download/v0.1.0/Skladno-v0.1.0-ios.mobileconfig)**.
+1. Скачайте файл конфигурационного профиля: **[`Skladno-v0.1.0-ios.mobileconfig`](https://github.com/ParanoaiDev/Skladno/releases/download/v0.1.0/Skladno-v0.1.0-ios.mobileconfig)**.
 2. При загрузке в Safari подтвердите **«Разрешить»**, затем **«Закрыть»**.
 3. Откройте приложение **«Настройки»** на iPhone.
 4. В самом верху нажмите на плашку **«Профиль загружен»** (или перейдите в *Основные ➔ VPN и управление устройством*).
@@ -35,7 +35,7 @@
 ## 📱 2. Android (Смартфоны и планшеты)
 
 ### Вариант A: Готовый нативный APK (Рекомендуется)
-1. Скачайте файл **[`Skladno-v0.1.0-android.apk`](https://github.com/RovelLabs/2-proect/releases/download/v0.1.0/Skladno-v0.1.0-android.apk)** (3.8 МБ).
+1. Скачайте файл **[`Skladno-v0.1.0-android.apk`](https://github.com/ParanoaiDev/Skladno/releases/download/v0.1.0/Skladno-v0.1.0-android.apk)** (3.8 МБ).
 2. Нажмите на скачанный файл в панели уведомлений или через файловый менеджер.
 3. Разрешите установку из вашего браузера/проводника (стандартное предупреждение Android для приложений не из Google Play).
 4. Нажмите «Установить» — приложение появится на домашнем экране.
@@ -45,7 +45,7 @@
 Откройте веб-версию сервиса в мобильном Chrome / Яндекс Браузере / Samsung Internet и в меню выберите **«Добавить на главный экран»** (Add to Home Screen). Приложение установится в систему как PWA-приложение с иконкой и кешированием через Service Worker.
 
 ### Вариант C: Проект для разработчиков
-Скачайте архив **[`Skladno-v0.1.0-android-project.zip`](https://github.com/RovelLabs/2-proect/releases/download/v0.1.0/Skladno-v0.1.0-android-project.zip)** или откройте папку `android/` в **Android Studio**. Сборка выполняется стандартной командой:
+Скачайте архив **[`Skladno-v0.1.0-android-project.zip`](https://github.com/ParanoaiDev/Skladno/releases/download/v0.1.0/Skladno-v0.1.0-android-project.zip)** или откройте папку `android/` в **Android Studio**. Сборка выполняется стандартной командой:
 ```bash
 cd android
 ./gradlew assembleDebug
@@ -56,7 +56,7 @@ cd android
 ## 🍎 2. macOS (Apple Silicon M1/M2/M3/M4 & Intel)
 
 ### Вариант A: Образ диска DMG (Самый удобный способ)
-1. Скачайте образ **[`Skladno-v0.1.0-macos.dmg`](https://github.com/RovelLabs/2-proect/releases/download/v0.1.0/Skladno-v0.1.0-macos.dmg)**.
+1. Скачайте образ **[`Skladno-v0.1.0-macos.dmg`](https://github.com/ParanoaiDev/Skladno/releases/download/v0.1.0/Skladno-v0.1.0-macos.dmg)**.
 2. Откройте `.dmg` двойным кликом — смонтируется диск «Складно».
 3. Перетащите иконку **Складно (Skladno.app)** в ярлык папки **«Программы» (Applications)** прямо в окне диска.
 4. Запускайте из Launchpad, Spotlight или папки «Программы».
@@ -71,7 +71,7 @@ cd android
 >   ```
 
 ### Вариант B: Портативный архив Skladno.app
-1. Скачайте архив **[`Skladno-v0.1.0-macos-universal.zip`](https://github.com/RovelLabs/2-proect/releases/download/v0.1.0/Skladno-v0.1.0-macos-universal.zip)**.
+1. Скачайте архив **[`Skladno-v0.1.0-macos-universal.zip`](https://github.com/ParanoaiDev/Skladno/releases/download/v0.1.0/Skladno-v0.1.0-macos-universal.zip)**.
 2. Распакуйте архив — внутри находится готовый бандл **`Skladno.app`**.
 3. Переместите `Skladno.app` в `/Applications`.
 
@@ -85,7 +85,7 @@ cd android
 ## 💻 3. Windows (x64 / Windows 10, 11)
 
 ### Быстрый запуск:
-1. Скачайте архив **[`Skladno-v0.1.0-windows-x64.zip`](https://github.com/RovelLabs/2-proect/releases/download/v0.1.0/Skladno-v0.1.0-windows-x64.zip)**.
+1. Скачайте архив **[`Skladno-v0.1.0-windows-x64.zip`](https://github.com/ParanoaiDev/Skladno/releases/download/v0.1.0/Skladno-v0.1.0-windows-x64.zip)**.
 2. Распакуйте архив в любую постоянную папку (например, `C:\Apps\Skladno` или в папку пользователя).
 3. Дважды кликните по **`Skladno.vbs`** — приложение бесшумно запустится в отдельном нативном окне (Edge/Chrome App Mode).
 
@@ -99,7 +99,7 @@ powershell -ExecutionPolicy Bypass -File scripts\install-windows-shortcut.ps1
 ---
 
 ## 🔒 Контрольные суммы (SHA256)
-Для сверки целостности файлов скачайте **[`SHA256SUMS.txt`](https://github.com/RovelLabs/2-proect/releases/download/v0.1.0/SHA256SUMS.txt)**.
+Для сверки целостности файлов скачайте **[`SHA256SUMS.txt`](https://github.com/ParanoaiDev/Skladno/releases/download/v0.1.0/SHA256SUMS.txt)**.
 Проверить хеш файла:
 - **macOS / Linux:** `sha256sum <имя_файла>`
 - **Windows PowerShell:** `Get-FileHash -Algorithm SHA256 <имя_файла>`

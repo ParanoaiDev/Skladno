@@ -16,6 +16,6 @@
 ## Как сообщить об уязвимости
 
 Если вы обнаружили потенциальную уязвимость безопасности в кодовой базе проекта, пожалуйста, не открывайте публичный issue.
-Отправьте отчет в приватные сообщения разработчиков или создайте GitHub Security Advisory в репозитории [RovelLabs/2-proect](https://github.com/RovelLabs/2-proect/security/advisories).
+Отправьте отчет в приватные сообщения разработчиков или создайте GitHub Security Advisory в репозитории [ParanoaiDev/Skladno](https://github.com/ParanoaiDev/Skladno/security/advisories).
 
 Мы обязуемся оперативно изучить отчет и выпустить исправление в течение 48 часов.

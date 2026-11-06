@@ -217,7 +217,7 @@ export const IosInstallModal: React.FC<IosInstallModalProps> = ({ isOpen, onClos
 
               <div className="ios-sideload-links">
                 <a
-                  href="https://github.com/RovelLabs/2-proect/releases/latest"
+                  href="https://github.com/ParanoaiDev/Skladno/releases/latest"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn btn-secondary"

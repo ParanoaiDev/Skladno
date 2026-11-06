@@ -354,7 +354,7 @@ export const App: React.FC = () => {
           <span className="footer-separator">•</span>
           <a href="https://rovel-labs.fourtopaph.workers.dev/" target="_blank" rel="noopener noreferrer">Лаборатория Rovel Labs</a>
           <span className="footer-separator">•</span>
-          <a href="https://github.com/RovelLabs/2-proect" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <a href="https://github.com/ParanoaiDev/Skladno" target="_blank" rel="noopener noreferrer">GitHub</a>
         </div>
       </footer>
 
